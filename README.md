@@ -1,3 +1,4 @@
+<img width="1280" height="702" alt="10626" src="https://github.com/user-attachments/assets/311059fb-cf04-493a-854f-e706ac9e8fd6" />
 <p align="center">
   <img src="app/src/main/ic_launcher-playstore.png" width="150" alt="HyperBridge Logo" style="border-radius: 20%;" />
 </p>
